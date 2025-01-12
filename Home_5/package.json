@@ -1,0 +1,21 @@
+{
+  "name": "home_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Uladzimir",
+  "license": "ISC",
+  "devDependencies": {
+    "web-vitals": "^4.2.4"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/material": "^6.3.0",
+    "react-router-dom": "^7.1.1"
+  }
+}
